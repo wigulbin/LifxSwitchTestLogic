@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/LifxSwitch.iml" filepath="$PROJECT_DIR$/LifxSwitch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LifxSwitchTestLogic.iml" filepath="$PROJECT_DIR$/LifxSwitchTestLogic.iml" />
     </modules>
   </component>
 </project>
